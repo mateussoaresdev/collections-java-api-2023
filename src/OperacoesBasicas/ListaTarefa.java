@@ -5,7 +5,7 @@ import java.util.List;
 
 
 public class ListaTarefa {
-    //atributes
+    //attributes
 
     private List<Tarefa> tarefaList;
 

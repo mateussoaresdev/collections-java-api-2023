@@ -1,7 +1,7 @@
 package OperacoesBasicas;
 
 public class Tarefa {
-    //atribute
+    //attributes
     private String descricao;
 
     public Tarefa(String descricao) {

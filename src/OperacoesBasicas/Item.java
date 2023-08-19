@@ -2,7 +2,7 @@ package OperacoesBasicas;
 
 
 public class Item {
-    //atributes
+    //attributes
     private String nome;
     private double preco;
     private int quant;
